@@ -1,0 +1,9 @@
+# Cloud Functions uses this file to install dependencies.
+
+# Google Cloud client libraries
+google-cloud-firestore
+google-cloud-storage
+
+# Image processing library
+opencv-python-headless
+numpy
